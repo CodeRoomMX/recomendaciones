@@ -1,1 +1,0 @@
-# Recomendaciones de [Calculadora de Salario con Animaciones](https://github.com/CodeRoomMX/practices)
