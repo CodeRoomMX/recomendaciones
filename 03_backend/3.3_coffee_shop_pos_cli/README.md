@@ -1,1 +1,1 @@
-# Recomendaciones de [Fundamentos de Programación](https://github.com/CodeRoomMX/fundamentals)
+# Recomendaciones de [Coffee Shop Point of Sale CLI](https://github.com/CodeRoomMX/coffee-shop-cli)

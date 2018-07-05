@@ -1,1 +1,1 @@
-# Recomendaciones de [Banners Best Buy](https://github.com/CodeRoomMX/practices)
+# Recomendaciones de [Banners Best Buy](https://github.com/CodeRoomMX/banners)

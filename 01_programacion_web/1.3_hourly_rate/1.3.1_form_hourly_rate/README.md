@@ -1,0 +1,1 @@
+# Recomendaciones de [Calculadora de Salario con Formulario](https://github.com/CodeRoomMX/hourly-rate)

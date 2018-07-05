@@ -1,0 +1,1 @@
+# Recomendaciones de [Galería de Imágenes](https://github.com/CodeRoomMX/image-gallery)

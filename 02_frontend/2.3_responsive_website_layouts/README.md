@@ -1,1 +1,1 @@
-# Recomendaciones de [Fundamentos de Programación](https://github.com/CodeRoomMX/fundamentals)
+# Recomendaciones de [Responsive Website Layouts](https://github.com/CodeRoomMX/layouts)
