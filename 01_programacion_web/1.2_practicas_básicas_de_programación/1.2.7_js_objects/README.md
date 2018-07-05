@@ -1,1 +1,1 @@
-# Recomendaciones de [Fundamentos de Programación](https://github.com/CodeRoomMX/fundamentals)
+# Recomendaciones de [Objetos de JS](https://github.com/CodeRoomMX/practices/tree/master/07_objects)

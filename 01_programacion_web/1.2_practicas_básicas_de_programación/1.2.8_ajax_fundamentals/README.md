@@ -1,1 +1,1 @@
-# Recomendaciones de [Fundamentos de Programación](https://github.com/CodeRoomMX/fundamentals)
+# Recomendaciones de [Fundamentos de Ajax](https://github.com/CodeRoomMX/practices/tree/master/08_api)
